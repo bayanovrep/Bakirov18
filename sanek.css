@@ -260,14 +260,14 @@ div#bg-1-5{
 
 .kashtan {  
 
-  animation: tabletka 5s infinite;
+  animation: kashtan 5s infinite;
 
 }
 
 
 
 
-@keyframes tabletka {
+@keyframes kashtan {
 
   0% {
 
@@ -286,14 +286,14 @@ div#bg-1-5{
 
 .kashtan2 {  
 
-  animation: tabletka1 5s infinite;
+  animation: kashtan2 5s infinite;
 
 }
 
 
 
 
-@keyframes tabletka1 {
+@keyframes kashtan2 {
 
   0% {
 
@@ -312,14 +312,14 @@ div#bg-1-5{
 
 .kashtan3 {    
 
-  animation: tabletka2 5s infinite;
+  animation: kashtan3 5s infinite;
 
 }
 
 
 
 
-@keyframes tabletka2 {
+@keyframes kashtan3 {
 
   0% {
 
